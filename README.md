@@ -284,7 +284,8 @@ flask
   
 2. 到line developers中的messaging，在Webhook URL貼上剛剛複製的網址，並在後面加上`/callback`，按下update就完成了!!!!!!
   
-![image](https://user-images.githubusercontent.com/102812213/170477006-24dfd8c0-8c83-4183-b4b8-06283f8952c1.png)
+![image](https://user-images.githubusercontent.com/102812213/170477006-24dfd8c0-8c83-4183-b4b8-06283f8952c1.png)  
+![image](https://user-images.githubusercontent.com/102812213/170489795-52c5e16f-39e0-483d-acd6-ef3b922f7ea7.png)
 
 ---
 
